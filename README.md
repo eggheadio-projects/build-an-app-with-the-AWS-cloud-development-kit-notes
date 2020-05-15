@@ -1,1 +1,1 @@
-# build-an-app-with-the-AWS-cloud-development-kit-notes
+# Build an App with the AWS Cloud Development Kit
