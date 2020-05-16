@@ -62,17 +62,16 @@ We'll have to make some changes to our `todo-backend` file. Let's make a new `la
 `import * as lambda from "@aws-cdk/aws-lambda";`
 
 ```ts
-  // use this instead of const, you'll say in a moment
-    this.handler = new lambda.Function(this, "TodoHandler", {
-        code: lambda.Code.fromAsset("lambda"),
-        // the name of the method in your code that lambda will call
-        // our file is called `todoHandler.ts` and it `exports.handler`
-        handler: "todoHandler.handler",
-        runtime: lambda.Runtime.NODEJS_12_X,
-        // we need to pass the name of our table as env variable
-        environment: {
-            TABLE_NAME: todosTable.tableName
-        }
-    });
-}
+// use this instead of const, you'll say in a moment
+this.handler = new lambda.Function(this, "TodoHandler", {
+    code: lambda.Code.fromAsset("lambda"),
+    // the name of the method in your code that lambda will call
+    // our file is called `todoHandler.ts` and it `exports.handler`
+    handler: "todoHandler.handler",
+    runtime: lambda.Runtime.NODEJS_12_X,
+    // we need to pass the name of our table as env variable
+    environment: {
+        TABLE_NAME: todosTable.tableName
+    }
+});
 ```

@@ -12,7 +12,7 @@ Instead of writing `yaml` or `json`, we'll be using `cdk`, and write our code in
 
 To view your current stack got to **AWS Management Console** search for **CloudFormation** and click on **Stacks** in the sidebar on the left.
 
-🤓 Note that whenever I refer to aws (management) console, I mean [this](https://aws.amazon.com/console/). You will have to be logged in to see your changes.
+👍 Note that whenever I refer to aws (management) console, I mean the console living on https://aws.amazon.com/console. You will have to be logged in to see your changes.
 
 👍 Make sure that you are selecting the right region (the region where your `cdk` app was initialized) as well.
 

@@ -38,10 +38,10 @@ Then click on the latest log and expand the `event` log (it will mention things 
 
 Mine looked like this:
 ```json
-    "object": {
-              "key": "Screenshot+2020-05-13+at+07.24.34.png",
-              "size": 19145,
-              "eTag": "40502d42d31dab5fe8581bd3d7ce0202",
-              "sequencer": "005EBCD5882BF314F4"
-          }
+"object": {
+            "key": "Screenshot+2020-05-13+at+07.24.34.png",
+            "size": 19145,
+            "eTag": "40502d42d31dab5fe8581bd3d7ce0202",
+            "sequencer": "005EBCD5882BF314F4"
+        }
 ```

@@ -8,7 +8,7 @@ We'll start by installing the [AWS Cloud Development Kit](https://aws.amazon.com
 
 `-g` stands for global (meaning that once installed, this package will be available anywhere on your computer)
 
-🤓 Throughout the course, Tomasz will use both `yarn` and `npm` package mangers, and it's really up to you to decide which one to use, as both work fine.
+👍 Throughout the course, Tomasz will use both `yarn` and `npm` package mangers, and it's really up to you to decide which one to use, as both work fine.
 
 Verify that`cdk` was installed.
 

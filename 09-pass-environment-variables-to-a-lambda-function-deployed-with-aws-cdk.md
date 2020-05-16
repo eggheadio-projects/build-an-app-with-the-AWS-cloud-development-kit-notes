@@ -8,8 +8,6 @@ We can do that by adding a prop to our `helloLambda` function in the stacks file
 
 ```ts
 const helloLambda = new lambda.Function(this, "HelloLambda", {
-
-
     environment: { isProduction: "absolutely not" }
 });
 ```
