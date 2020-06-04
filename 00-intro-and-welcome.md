@@ -83,14 +83,3 @@ Even if you have no visible output (because you currently don't have any active 
 To see your credentials run:
 
 * `cat ~/.aws/credentials`
-
-
-### Emoji Legend
-
-| emoji| explanation              |
-| -----|:------------------------:|
-| 📹   | links to the course video|
-| 💻   | course repository        |
-| ⌨️    | keyboard shortcut        |
-| 🤔   | additional resources     |
-| 👍   | good practice            |
