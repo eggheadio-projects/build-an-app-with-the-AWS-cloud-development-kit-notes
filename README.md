@@ -25,6 +25,17 @@ You'll learn how to deploy a `cdk` template, write your first `lambda` function,
 
 By the end of the course you'll not only have a good understanding of (some of) `aws` features, you'll also have a working application deployed live on the internet.
 
+### Emoji Legend
+
+| emoji| explanation              |
+| -----|:------------------------:|
+| 📹   | links to the course video|
+| 💻   | course repository        |
+| ⌨️    | keyboard shortcut        |
+| 🤔   | additional resources     |
+| 👍   | good practice            |
+
+
 ## Who is Tomasz Łakomy? 👨‍💻
 
 Senior Frontend Engineer at OLX Group. His interests include React, AWS, testing, Svelte, VR, app performance and... jQuery, which he still thinks is the best library ever.
