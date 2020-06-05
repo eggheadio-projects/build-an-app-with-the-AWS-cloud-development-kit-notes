@@ -25,6 +25,14 @@ You'll learn how to deploy a `cdk` template, write your first `lambda` function,
 
 By the end of the course you'll not only have a good understanding of (some of) `aws` features, you'll also have a working application deployed live on the internet.
 
+## Performance Task
+
+After completing the course and absorbing all of this knowledge, the best way to solidify it is by using it!
+
+You can find a challenge written up for you to test your new AWS knowledge in the [Performance Task](./Performance-Task/index.md) folder. We've given you a scenario for you to implement a feature through AWS services.
+
+You'll notice that there is a [community solutions](./Performance-Task/community-solutions) folder within the Performance Tasks section. We encourage you to submit a PR and add your solution!
+
 ### Emoji Legend
 
 | emoji| explanation              |
