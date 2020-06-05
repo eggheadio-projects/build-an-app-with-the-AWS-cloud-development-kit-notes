@@ -32,4 +32,4 @@ HTML only form
 
 ## Feedback
 
-<iframe class="airtable-embed" src="https://airtable.com/embed/shrThRDOgN2BX3tMt?backgroundColor=blue" frameborder="0" onmousewheel="" width="100%" height="533" style="background: transparent; border: 1px solid #ccc;"></iframe>
+After completing the project, [please fill out this evaluation](https://airtable.com/embed/shrThRDOgN2BX3tMt?backgroundColor=blue). It will help us improve the quality of these exercises in the future!
