@@ -31,7 +31,7 @@ After completing the course and absorbing all of this knowledge, the best way to
 
 You can find a challenge written up for you to test your new AWS knowledge in the [Performance Task](./Performance-Task/README.md) folder. We've given you a scenario for you to implement a feature through AWS services.
 
-You'll notice that there is a [community solutions](./Performance-Task/community-solutions) folder within the Performance Tasks section. We encourage you to submit a PR and add your solution!
+You'll notice that there is a [community solutions](./Performance-Task/community-solutions.md) folder within the Performance Tasks section. We encourage you to submit a PR and add your solution!
 
 ### Emoji Legend
 
