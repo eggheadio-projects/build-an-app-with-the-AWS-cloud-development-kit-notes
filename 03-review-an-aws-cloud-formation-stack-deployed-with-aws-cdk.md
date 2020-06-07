@@ -24,4 +24,4 @@ Lastly, see all the `yaml` code that we have been spared from writing, by checki
 
 If you prefer to visualize your code, click on **View in designer** (you might need to scroll down and zoom-in to see your template). This is particularly useful with a larger infrastructure as it enables an overview of how different pieces are connected.
 
-![img](/images/trigger.png)
+![CloudFormation Trigger Image](/images/03-review-an-aws-cloud-formation-stack-deployed-with-aws-cdk-trigger-image.png)

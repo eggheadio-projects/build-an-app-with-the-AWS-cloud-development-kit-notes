@@ -34,4 +34,4 @@ todo String: Add DynamoDB
 isComplete: true
 ```
 
-![img](/images/dynamodb.png)
+![Add DynamoDB Image](/images/16-create-a-dynamo-db-table-with-aws-cdk-dynamodb-image.png)

@@ -19,4 +19,4 @@ console.log("isProduction?", process.env.isProduction);`
 
 Once you've deployed, you'll be able to see the log. Click on **Test** in `aws` console  and checkout the **Environment variables**.
 
-![img](/images/env.png)
+![Environment variable Images](/images/09-pass-environment-variables-to-a-lambda-function-deployed-with-aws-cdk-env-image.png)
