@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://egghead.io/lessons/aws-build-and-deploy-a-sample-aws-cloud-development-kit-stack-to-aws">Build an App with the AWS Cloud Development Kit</a></h1>
+<h1 align="center"><a href="https://egghead.io/courses/build-an-app-with-the-aws-cloud-development-kit">Build an App with the AWS Cloud Development Kit</a></h1>
 
 <p align="center">
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
