@@ -11,7 +11,7 @@
 
 ## About 🔍
 
-This repo contains notes from [Tomasz Łakomy](https://twitter.com/tlakomy)'s Egghead Collection [Build an App with the AWS Cloud Development Kit](https://egghead.io/lessons/aws-build-and-deploy-a-sample-aws-cloud-development-kit-stack-to-aws).
+This repo contains notes from [Tomasz Łakomy](https://twitter.com/tlakomy)'s Egghead course [Build an App with the AWS Cloud Development Kit](https://egghead.io/lessons/aws-build-and-deploy-a-sample-aws-cloud-development-kit-stack-to-aws).
 
 These notes contain the same structure as the transcriptions, along with additional rewrites, links to resources, and personal takes on the lesson. Feel free to submit additions to these notes, but please don't remove anything (unless we messed up or misunderstood something).
 
