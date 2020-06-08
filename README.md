@@ -22,17 +22,6 @@ You'll learn how to deploy a `cdk` template, write your first `lambda` function,
 
 By the end of the course you'll not only have a good understanding of (some of) `aws` features, you'll also have a working application deployed live on the internet.
 
-### Emoji Legend
-
-| emoji| explanation              |
-| -----|:------------------------:|
-| 📹   | links to the course video|
-| 💻   | course repository        |
-| ⌨️    | keyboard shortcut        |
-| 🤔   | additional resources     |
-| 👍   | good practice            |
-
-
 ## Who is Tomasz Łakomy? 👨‍💻
 
 Senior Frontend Engineer at OLX Group. His interests include React, AWS, testing, Svelte, VR, app performance and... jQuery, which he still thinks is the best library ever.
@@ -68,6 +57,16 @@ Senior Frontend Engineer at OLX Group. His interests include React, AWS, testing
 - [24-Deploy a static website to S3 with AWS CDK](24-deploy-a-static-website-to-s3-with-aws-cdk.md)
 - [25-Deploy a site with HTTPS support behind a CDN with CDK](25-deploy-a-site-with-https-support-behind-a-cdn-with-cdk.md)
 - [26-Destroy an AWS CDK stack](26-destroy-an-aws-cdk-stack.md)
+
+## Emoji Legend
+
+| emoji| explanation              |
+| -----|:------------------------:|
+| 📹   | links to the course video|
+| 💻   | course repository        |
+| ⌨️    | keyboard shortcut        |
+| 🤔   | additional resources     |
+| 👍   | good practice            |
 
 
 ## Contributors ✨
