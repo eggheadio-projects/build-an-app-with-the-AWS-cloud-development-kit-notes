@@ -26,9 +26,8 @@ Create a stack that deploys your front end, includes your construct, and creates
 
 ## Prototypes
 
-[React form](https://codesandbox.io/s/nervous-lalande-m9xgb?file=/src/App.js)
-
-HTML only form
+- [React form](https://codesandbox.io/s/nervous-lalande-m9xgb?file=/src/App.js)
+- [Vue form](https://github.com/Creeland/AWS-CDK-Vue-Frontend)
 
 ## Feedback
 
