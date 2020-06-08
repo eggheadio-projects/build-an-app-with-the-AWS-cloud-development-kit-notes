@@ -4,7 +4,7 @@
 
 We'll need storage for our static files (`HTML`, `CSS`, images etc). Let's use [Amazon S3](https://aws.amazon.com/s3/) for that.
 
-![S3 Buckets Illustration](./images/11-create-and-deploy-an-s3-bucket-with-aws-cdk-s3-buckets.png)
+![S3 Buckets Illustration](https://res.cloudinary.com/dg3gyk0gu/image/upload/v1591637697/transcript-images/11-create-and-deploy-an-s3-bucket-with-aws-cdk-s3-buckets.png)
 
 We'll create a new `aws` bucket to store our data!
 Run:

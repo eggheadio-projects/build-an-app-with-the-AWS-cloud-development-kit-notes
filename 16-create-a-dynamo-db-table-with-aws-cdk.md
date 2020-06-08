@@ -4,7 +4,7 @@
 
 Let's hook our app to a database. We'll be using [DynamoDB](https://aws.amazon.com/dynamodb/), which is a **NoSQL** database.
 
-![Storage Illustration](./images/16-create-a-dynamo-db-table-with-aws-cdk-storage-illustration.png)
+![Storage Illustration](https://res.cloudinary.com/dg3gyk0gu/image/upload/v1591637698/transcript-images/16-create-a-dynamo-db-table-with-aws-cdk-storage-illustration.png)
 
 🤔 Sidenote: What is NoSQL?
 
@@ -36,4 +36,4 @@ todo String: Add DynamoDB
 isComplete: true
 ```
 
-![Add DynamoDB Image](/images/16-create-a-dynamo-db-table-with-aws-cdk-dynamodb-image.png)
+![Add DynamoDB Image](https://res.cloudinary.com/dg3gyk0gu/image/upload/v1591637697/transcript-images/16-create-a-dynamo-db-table-with-aws-cdk-dynamodb-image.png)

@@ -6,7 +6,7 @@ Now let's figure out how to trigger our function!
 
 We need to attach an [API Gateway](https://aws.amazon.com/api-gateway/) which will allow us to call our `lambda` function from the internet.
 
-![API Gateway Illustration](./images/08-attach-an-api-gateway-to-a-lambda-function-deployed-with-aws-cdk-api-gateway.png)
+![API Gateway Illustration](https://res.cloudinary.com/dg3gyk0gu/image/upload/v1591637697/transcript-images/08-attach-an-api-gateway-to-a-lambda-function-deployed-with-aws-cdk-api-gateway.png)
 
 Run:
 * `npm install --save @aws-cdk/aws-apigateway`
