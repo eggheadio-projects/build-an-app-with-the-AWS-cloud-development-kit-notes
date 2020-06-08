@@ -1,0 +1,33 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "laurosilvacom",
+      "name": "Lauro Silva",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/57044804?v=4",
+      "profile": "https://laurosilva.com",
+      "contributions": [
+        "review"
+      ]
+    },
+    {
+      "login": "edieblu",
+      "name": "edieblu",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/17270662?v=4",
+      "profile": "http://includejs.dev",
+      "contributions": [
+        "content"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "build-an-app-with-the-AWS-cloud-development-kit-notes",
+  "projectOwner": "eggheadio-projects",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}

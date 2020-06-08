@@ -14,6 +14,6 @@ const helloLambda = new lambda.Function(this, "HelloLambda", {
     memorySize: 256,
 });
 ```
-![img](/images/lambda-config.png)
+![Lambda Function Image](https://res.cloudinary.com/dg3gyk0gu/image/upload/v1591637696/transcript-images/07-change-the-properties-of-a-lambda-function-deployed-with-aws-cdk-lambda-config-image.png)
 
 Run `cdk diff` and `cdk deploy` then verify your changes in the  `aws console`.

@@ -6,6 +6,8 @@ Let's start creating a serverless backend for our todo application.
 
 We're going to create a custom construct, where we are going to put our database and a `lambda` function.
 
+![Custom Construct Illustration](https://res.cloudinary.com/dg3gyk0gu/image/upload/v1591637698/transcript-images/15-create-a-custom-aws-cdk-construct-custom-construct-images.png)
+
 Create a new file next to our stack file (in the `lib` directory), called `todo-backend-ts.`
 
 Import `aws-cdk/core` then, let's type our custom construct (which is going to look a lot like the `logoBucket` code from our stack file).
