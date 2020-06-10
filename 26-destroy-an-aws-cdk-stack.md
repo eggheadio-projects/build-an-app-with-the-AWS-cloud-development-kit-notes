@@ -8,4 +8,4 @@ If at some point you want to delete the your app (along with all of its resource
 
 The only thing that won't get deleted is the `s3` `LogoBucket` which you can delete manually.
 
-👍 And if you want to redeploy the app again in the future (assuming you didn't delete the code!), just run `cdk deploy` and your app will be live again.
+👍 And if you want to redeploy the app again in the future (assuming you didn't delete the code on your computer!), just run `cdk deploy` and your app will be live again.

@@ -5,6 +5,7 @@
 Let's trigger our `lambda` function every time we upload a file to our `s3` bucket.
 
 We'll need to install `s3 notifications`.
+
 Run:
 * `npm install --save @aws-cdk/aws-s3-notifications`
 
@@ -24,7 +25,7 @@ logoBucket.addEventNotification(
   );
 ```
 
-👍 Tip: Make sure you have `npm run watch` running in another terminal tab - this will inform you if there are any `typescript` errors.
+👍 Tip: Make sure you have `npm run watch` running in another terminal tab - this will let you know if there are any `typescript` errors.
 
 In the `aws` console, go to **Services** and search for `s3`. Upload a file to the bucket then check if the `lambda` function was triggered by going back to **Services** and looking for `lambda`.
 

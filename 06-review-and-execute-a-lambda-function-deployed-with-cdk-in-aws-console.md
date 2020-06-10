@@ -9,7 +9,7 @@ Under the **Resources** we can see:
 * AWS::Lambda::Function
 * AWS::CDK::Metadata
 
-Click on the lambda function id to explore it. You'll be able to use the entire code, which starts with `use strict` and finishes with the sourcemap (because this was code was transpiled from `typescript`).
+Click on the lambda function id to explore it. You'll be able to use the entire code, which starts with `use strict` and finishes with the sourcemap (because this code was transpiled from `typescript`).
 
 Further down the page, you'll see **Tags** associated with this function (those were added automatically).
 

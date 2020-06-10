@@ -12,7 +12,7 @@ Navigate to the `lambda` directory and run:
 
 This will initialize a new `package.json`. Then run:
 
-*  `yarn add uuid`
+* `yarn add uuid`
 * `yarn add @types/uuid`
 
 (since we are using `typescript`)
