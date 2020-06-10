@@ -10,11 +10,16 @@ Your project manager recommends you use the command `cdk init sample-app --langu
 
 ## Requirements:
 
-- Wire up a form for users to input their email
-- Handle user input with AWS Lambda
-- Store that email on AWS using DynamoDB
+- [ ] Wire up a form for users to input their email
+- [ ] Handle user input with AWS Lambda
+- [ ] Store that email on AWS using DynamoDB
 
-## Project Outline
+### Stretch Goals
+- [ ] Display emails on the page
+- [ ] Delete emails from the list
+- [ ] Add the company logo to the form
+
+## Project Steps
 
 Create a frontend that takes user input and POSTs to your AWS endpoint.
 
@@ -24,7 +29,7 @@ Create a construct that creates the DynamoDB table and includes the lambda funct
 
 Create a stack that deploys your front end, includes your construct, and creates an API gateway for your lambda function.
 
-## Prototypes
+## Form Prototypes
 
 - [React form](https://codesandbox.io/s/nervous-lalande-m9xgb?file=/src/App.js)
 - [Vue form](https://github.com/Creeland/AWS-CDK-Vue-Frontend)
