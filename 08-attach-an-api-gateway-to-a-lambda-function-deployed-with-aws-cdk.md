@@ -32,4 +32,4 @@ Run `cdk diff` (a lot of changes will be displayed - this will be the code added
 
 Once you've deployed succesfully, the terminal will output a URL. Click on it to see your `lambda` function live on the internet.
 
-You can also check your newly created resourced in the `aws` console. If you click on your `lambda` function you'll also see that this function now has a trigger (API Gateway) associated with it.
+You can also check your newly created resources in the `aws` console. If you click on your `lambda` function you'll also see that this function now has a trigger (API Gateway) associated with it.

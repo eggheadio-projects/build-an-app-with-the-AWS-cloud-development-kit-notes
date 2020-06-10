@@ -2,9 +2,9 @@
 
 **[📹 Video](https://egghead.io/lessons/aws-connect-react-app-to-a-serverless-backend-deployed-with-cdk-and-fix-cors-issues)**
 
-Let's connect our backend to a frontend react application. Download the `frontend` directory from  [here](https://github.com/tlakomy/egghead-aws-cdk-workshop).
+Let's connect our backend to a frontend react application. Download the `frontend` directory from [here](https://github.com/tlakomy/egghead-aws-cdk-workshop).
 
-Your root directory should look like this:
+Your root directory should now look like this:
 ```
 .
 ├── frontend
@@ -19,7 +19,7 @@ And then:
 
 *  `yarn start`
 
-Unfortunately, you'll be met by the following error:
+Unfortunately, you'll get the following error:
 
 *  `failed to load resource: net::ERR_NAME_NOT_RESOLVED`.
 

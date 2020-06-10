@@ -4,7 +4,7 @@
 
 We want our website to be secure and served on `https` (and not on `http`) - let's fix that.
 
-Also, in the previous lesson, we wrote out the three steps for deploying our frontend:
+Also, in the previous lesson, we had to type out the three steps for deploying our frontend:
 
 * Creating a bucket
 * Creating a bucket deployment
@@ -23,7 +23,7 @@ Import it to the stack file:
 
 * `import { SPADeploy } from "cdk-spa-deploy";`
 
-Then comment out (or remove) the three sections that we wrote in last time lesson and replace them with:
+Then comment out (or remove) the three sections that we wrote in the last time lesson and replace them with:
 
 ```ts
 new SPADeploy(this, "WebsiteDeployment").createSiteWithCloudfront({

@@ -4,7 +4,7 @@
 
 Let's fix the missing logo at the bottom of our todo application. We need to tell our frontend application to source it from our `s3` `logoBucket`.
 
-Instead, searching for the logo url in our `aws` console (not a true hacker move!, we can output the url in our terminal with each deployment.
+Instead of manually searching for the logo url in our `aws` console (not a true hacker move!), we can output the url in our terminal with each deployment.
 
 To do that, let's modify the `output` in our stack file by adding this:
 ```ts
@@ -14,6 +14,6 @@ To do that, let's modify the `output` in our stack file by adding this:
   });
 ```
 
-👍 Once you deploy, you should see the logo path in the outputs section.
+👍 Once you deploy, you should see the logo path in the output section.
 
 Now go to the frontend application and add this `url` as the logo `src` (in `app.tsx`).

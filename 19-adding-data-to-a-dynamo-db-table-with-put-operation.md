@@ -2,7 +2,7 @@
 
 **[📹 Video](https://egghead.io/lessons/aws-adding-data-to-a-dynamodb-table-with-put-operation)**
 
-Let's add the ability to add todos!
+Let's implement the ability to add todos!
 
 Start by updating the handler in our lambda, by adding:
 
@@ -49,7 +49,7 @@ try {
 ```
 🤔 The source code is available [here](https://github.com/tlakomy/egghead-aws-cdk-workshop/blob/master/todo-app/lesson_08/lambda/todoHandler.ts).
 
-Now let's add the function for adding the todos (head here for the [dynamoDB cheatsheet](https://github.com/dabit3/dynamodb-documentclient-cheat-sheet)).
+Now let's write the function for adding the todos (head here for the [dynamoDB cheatsheet](https://github.com/dabit3/dynamodb-documentclient-cheat-sheet)).
 
 We'll be using the `PUT` method, which either adds an item or replaces the item if the item already exists.
 

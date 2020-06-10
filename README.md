@@ -16,7 +16,7 @@ Generally, there is one document for each lesson in the course. If there are rel
 
 ## Course Objective 💪
 
-You've probably already heard of cloud computing, `aws`, `lambda` functions, `s3` buckets, but have no idea what those things are. Good news! This course serve as an introduction to all of these things and more!
+You've probably already heard of cloud computing, `aws`, `lambda` functions, `s3` buckets, but maybe have no idea what those things are. Good news! This course serve as an introduction to all of these things and more!
 
 You'll learn how to deploy a `cdk` template, write your first `lambda` function, initialize a new `s3` bucket to store your assets, save things in a NoSQL database called `dynamoDB`, connect a `react` application to your backend and deploy all of it to a CDN!
 

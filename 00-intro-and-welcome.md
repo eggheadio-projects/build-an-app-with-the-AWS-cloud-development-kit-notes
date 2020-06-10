@@ -32,7 +32,7 @@ Go to [AWS Management Account](https://aws.amazon.com/console/) and either creat
 
 * You can skip the **tag** section and click on **Create user**.
 
-* Make sure to save your **access key** and **password** (Secret Access Key) as this is the only time that they will be displayed (👍 you can download them in as `.csv` file)
+* Make sure to save your **access key** and **password** (Secret Access Key) as this is the only time that they will be displayed (👍 you can download them as a `.csv` file)
 
 Here for the [📹 video tutorial](https://egghead.io/lessons/egghead-create-an-admin-user-with-iam-and-configure-aws-cli-to-enable-programmatic-access-to-aws).
 
