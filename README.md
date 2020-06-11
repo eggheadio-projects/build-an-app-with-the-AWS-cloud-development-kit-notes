@@ -25,7 +25,7 @@ By the end of the course you'll not only have a good understanding of (some of) 
 ## Prerequisites ✅
 During this course we're going to talk quite a bit about AWS Lambda, DynamoDB and we're going to play with AWS SAM a bit. This is not required but I think you will get more out of the course if you take a look at those resources first (don't worry - I will be explaning those concepts during the course as well):
 
-[🤔 Tomasz's notes](https://gist.github.com/tlakomy/f1312ec1fd092ece75a0f72403235fc8)
+[🤔 Tomasz's notes](https://gist.github.com/tlakomy/f1312ec1fd092ece75a0f72403235fc8) and [workshop docs](https://github.com/tlakomy/egghead-aws-cdk-workshop/tree/master/docs)
 
 | Learn AWS Lambda from scratch                                                             | Learn AWS Serverless Application Model (AWS SAM) from scratch                                                                     | Learn DynamoDB from scratch                                                                 | Intro to DynamoDB by [Chris Biscardi](https://egghead.io/instructors/chris-biscardi?af=6p5abz) |
 |-------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
