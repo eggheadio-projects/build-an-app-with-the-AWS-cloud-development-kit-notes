@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://egghead.io/courses/build-an-app-with-the-aws-cloud-development-kit">Build an App with the AWS Cloud Development Kit</a></h1>
+<h1 align="center"><a href="https://egghead.io/courses/build-an-app-with-the-aws-cloud-development-kit?af=6p5abz">Build an App with the AWS Cloud Development Kit</a></h1>
 
 <p align="center"><img src="https://d2eip9sf3oo6c2.cloudfront.net/series/square_covers/000/000/450/full/EGH_AWS-TS.png" width="340"></p>
 
@@ -8,7 +8,7 @@
 
 ## About 🔍
 
-This repo contains notes from [Tomasz Łakomy](https://twitter.com/tlakomy)'s Egghead course [Build an App with the AWS Cloud Development Kit](https://egghead.io/courses/build-an-app-with-the-aws-cloud-development-kit).
+This repo contains notes from [Tomasz Łakomy](https://twitter.com/tlakomy)'s Egghead course [Build an App with the AWS Cloud Development Kit](https://egghead.io/courses/build-an-app-with-the-aws-cloud-development-kit?af=6p5abz).
 
 These notes contain the same structure as the transcriptions, along with additional rewrites, links to resources, and personal takes on the lesson. Feel free to submit additions to these notes, but please don't remove anything (unless we messed up or misunderstood something).
 
@@ -22,13 +22,24 @@ You'll learn how to deploy a `cdk` template, write your first `lambda` function,
 
 By the end of the course you'll not only have a good understanding of (some of) `aws` features, you'll also have a working application deployed live on the internet.
 
+## Prerequisites ✅
+During this course we're going to talk quite a bit about AWS Lambda, DynamoDB and we're going to play with AWS SAM a bit. This is not required but I think you will get more out of the course if you take a look at those resources first (don't worry - I will be explaning those concepts during the course as well):
+
+[🤔 Tomasz's notes](https://gist.github.com/tlakomy/f1312ec1fd092ece75a0f72403235fc8) and [workshop docs](https://github.com/tlakomy/egghead-aws-cdk-workshop/tree/master/docs)
+
+| Learn AWS Lambda from scratch                                                             | Learn AWS Serverless Application Model (AWS SAM) from scratch                                                                     | Learn DynamoDB from scratch                                                                 | Intro to DynamoDB by [Chris Biscardi](https://egghead.io/instructors/chris-biscardi?af=6p5abz) |
+|-------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
+| [📹 Collection](https://egghead.io/playlists/learn-aws-lambda-from-scratch-d29d?af=6p5abz) | [📹 Collection](https://egghead.io/playlists/learn-aws-serverless-application-model-aws-sam-framework-from-scratch-baf9?af=6p5abz) | [📹 Collection](https://egghead.io/playlists/learn-aws-dynamodb-from-scratch-21c3?af=6p5abz) | [📹 Collection](https://egghead.io/playlists/learn-aws-dynamodb-from-scratch-21c3?af=6p5abz)    |
+| [🤔 Notes](https://github.com/theianjones/egghead.io_learn_aws_lambda_from_scratch)        |                                       [🤔 Notes](https://github.com/eggheadio-projects/build-serverless-applications-with-aws-sam) |            [🤔 Notes](https://github.com/eggheadio-projects/learn-aws-dynamodb-from-scratch) |                             [🤔 Notes](https://github.com/eggheadio-projects/intro-to-dynamodb) |
+
+
 ## Who is Tomasz Łakomy? 👨‍💻
 
 Senior Frontend Engineer at OLX Group. His interests include React, AWS, testing, Svelte, VR, app performance and... jQuery, which he still thinks is the best library ever.
 
 [Other Egghead content](https://egghead.io/instructors/tomasz-lakomy) created by Tomasz.
 
-## Table of Contents
+## Table of Contents 📜
 
 - [00-Intro and Welcome](00-intro-and-welcome.md)
 - [01-Install AWS Cloud Development Kit (CDK) and create a new project](01-install-aws-cloud-development-kit-cdk-and-create-a-new-project.md)
@@ -58,7 +69,7 @@ Senior Frontend Engineer at OLX Group. His interests include React, AWS, testing
 - [25-Deploy a site with HTTPS support behind a CDN with CDK](25-deploy-a-site-with-https-support-behind-a-cdn-with-cdk.md)
 - [26-Destroy an AWS CDK stack](26-destroy-an-aws-cdk-stack.md)
 
-## Emoji Legend
+## Emoji Legend 🧠
 
 | emoji| explanation              |
 | -----|:------------------------:|
