@@ -34,6 +34,10 @@ Create a stack that deploys your front end, includes your construct, and creates
 - [React form](https://codesandbox.io/s/nervous-lalande-m9xgb?file=/src/App.js)
 - [Vue form](https://github.com/Creeland/AWS-CDK-Vue-Frontend)
 
+## Project Boilerplate
+
+Your team has a suggested configuration for this type of project. You can browse or copy the [project boilerplate code](./boilerplate) that has the set up done for you if you don't want to start completely from scratch.
+
 ## Feedback
 
 After completing the project, [please fill out this evaluation](https://airtable.com/embed/shrThRDOgN2BX3tMt?backgroundColor=blue). It will help us improve the quality of these exercises in the future!
