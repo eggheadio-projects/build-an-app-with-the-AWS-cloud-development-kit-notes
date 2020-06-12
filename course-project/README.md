@@ -22,13 +22,17 @@ Your project manager recommends you use the command `cdk init` to save time. AWS
 
 ## Project Steps
 
-Create a frontend that takes user input and POSTs to your AWS endpoint.
+Create helloworld lambda and test in AWS console ([lessons 05](../../05-create-and-deploy-a-lambda-function-with-aws-cdk.md))
 
-Create a lambda function that handles POST requests and adds data to your dynamodb table. 
+Create an API gateway for your lambda function ([lesson 08](../../08-attach-an-api-gateway-to-a-lambda-function-deployed-with-aws-cdk.md))
 
-Create a construct that creates the DynamoDB table and includes the lambda function for handling requests
+Create a DynamoDB table inside your Backend Construct ([lesson 16](../../16-create-a-dynamo-db-table-with-aws-cdk.md))
 
-Create a stack that deploys your front end, includes your construct, and creates an API gateway for your lambda function.
+Handle POST request inside of your lambda function that adds data to DynamoDB (lesson 17 - 21)
+
+Create a frontend that takes user input and POSTs to your AWS endpoint ([lesson 22](../../22-connect-react-app-to-a-serverless-backend-deployed-with-cdk-and-fix-cors-issues.md))
+
+Deploy your front end to AWS ([lesson 24](../../24-deploy-a-static-website-to-s3-with-aws-cdk.md))
 
 ## Form Prototypes
 
