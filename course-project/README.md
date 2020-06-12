@@ -6,7 +6,7 @@ Our client wants to build up a subscriber list to market their new product. The 
 
 The frontend team has come up with a couple of prototypes for the frontend form. You could either wire up one of their prototypes or roll your own!
 
-Your project manager recommends you use the command `cdk init sample-app --language=[csharp|fsharp|java|javascript|python|typescript]` to save time. AWS CDK converts into JSON/YAML so the language you implement this feature is completely up to you!
+Your project manager recommends you use the command `cdk init` to save time. AWS CDK converts into JSON/YAML so the language you implement this feature is completely up to you!
 
 ## Requirements:
 
