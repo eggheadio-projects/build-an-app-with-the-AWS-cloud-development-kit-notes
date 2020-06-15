@@ -6,7 +6,7 @@ Our client wants to build up a subscriber list to market their new product. The 
 
 The frontend team has come up with a couple of prototypes for the frontend form. You could either wire up one of their prototypes or roll your own!
 
-Your project manager recommends you use the command `cdk init` to save time. AWS CDK converts into JSON/YAML so the language you implement this feature in is completely up to you! If you need assistance with setting up the project the backend team has a suggested configuration for this type of project. You can browse or copy the [project boilerplate code](./boilerplate) that has the set up done for you if you don't want to start completely from scratch.
+Your project manager recommends you use the command `cdk init` to save time. AWS CDK converts into JSON/YAML so the language you implement this feature in is completely up to you! If you need assistance with setting up the project the backend team has a suggested configuration for this type of project. You can browse or copy the [Backend Starter](https://github.com/Creeland/AWS-CDK-Backend-Starter) that has the set up done for you if you don't want to start completely from scratch.
 
 
 ## Requirements:
