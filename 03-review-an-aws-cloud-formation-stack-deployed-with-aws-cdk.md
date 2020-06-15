@@ -8,7 +8,7 @@ But [what is CloudFormation?](https://docs.aws.amazon.com/AWSCloudFormation/late
 
 It's a tool from AWS that allows you to spin up resources effortlessly. You write a template (using `YAML` or `json`) and then AWS does the rest.
 
-Instead of writing `yaml` or `json`, we'll be using `cdk`, and write our code in `typesecript`. Afterward, our code will be transformed into a CloudFormation template and our stack deployed to `aws`.
+Instead of writing `yaml` or `json`, we'll be using `cdk`, and write our code in `typescript`. Afterward, our code will be transformed into a CloudFormation template and our stack deployed to `aws`.
 
 To view your current stack got to **AWS Management Console** search for **CloudFormation** and click on **Stacks** in the sidebar on the left.
 

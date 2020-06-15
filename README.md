@@ -16,11 +16,19 @@ Generally, there is one document for each lesson in the course. If there are rel
 
 ## Course Objective 💪
 
-You've probably already heard of cloud computing, `aws`, `lambda` functions, `s3` buckets, but have no idea what those things are. Good news! This course serve as an introduction to all of these things and more!
+You've probably already heard of cloud computing, `aws`, `lambda` functions, `s3` buckets, but maybe have no idea what those things are. Good news! This course serve as an introduction to all of these things and more!
 
 You'll learn how to deploy a `cdk` template, write your first `lambda` function, initialize a new `s3` bucket to store your assets, save things in a NoSQL database called `dynamoDB`, connect a `react` application to your backend and deploy all of it to a CDN!
 
 By the end of the course you'll not only have a good understanding of (some of) `aws` features, you'll also have a working application deployed live on the internet.
+
+## AWS CDK Project
+
+After completing the course and absorbing all of this knowledge, the best way to solidify it is by using it!
+
+You can find a challenge written up for you to test your new AWS knowledge in the [Course Project](./course-project/README.md) folder. We've given you a scenario for you to implement a feature through AWS services.
+
+You'll notice that there is a [community solutions](./course-project/community-solutions.md) folder within the Course Project section. We encourage you to submit a PR and add your solution!
 
 ## Prerequisites ✅
 During this course we're going to talk quite a bit about AWS Lambda, DynamoDB and we're going to play with AWS SAM a bit. This is not required but I think you will get more out of the course if you take a look at those resources first (don't worry - I will be explaning those concepts during the course as well):
@@ -31,7 +39,6 @@ During this course we're going to talk quite a bit about AWS Lambda, DynamoDB an
 |-------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------|
 | [📹 Collection](https://egghead.io/playlists/learn-aws-lambda-from-scratch-d29d?af=6p5abz) | [📹 Collection](https://egghead.io/playlists/learn-aws-serverless-application-model-aws-sam-framework-from-scratch-baf9?af=6p5abz) | [📹 Collection](https://egghead.io/playlists/learn-aws-dynamodb-from-scratch-21c3?af=6p5abz) | [📹 Collection](https://egghead.io/playlists/learn-aws-dynamodb-from-scratch-21c3?af=6p5abz)    |
 | [🤔 Notes](https://github.com/theianjones/egghead.io_learn_aws_lambda_from_scratch)        |                                       [🤔 Notes](https://github.com/eggheadio-projects/build-serverless-applications-with-aws-sam) |            [🤔 Notes](https://github.com/eggheadio-projects/learn-aws-dynamodb-from-scratch) |                             [🤔 Notes](https://github.com/eggheadio-projects/intro-to-dynamodb) |
-
 
 ## Who is Tomasz Łakomy? 👨‍💻
 
