@@ -36,5 +36,5 @@ Deploy your front end to AWS ([lesson 24](../../24-deploy-a-static-website-to-s3
 
 ## Form Prototypes
 
-- [React form](https://codesandbox.io/s/nervous-lalande-m9xgb?file=/src/App.js)
+- [React form](https://github.com/zacjones93/AWS-CDK-React-Frontend/tree/master)
 - [Vue form](https://github.com/Creeland/AWS-CDK-Vue-Frontend)
