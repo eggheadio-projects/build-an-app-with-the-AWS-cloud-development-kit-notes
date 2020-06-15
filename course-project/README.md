@@ -34,7 +34,9 @@ Your project manager recommends you use the command `cdk init` to save time. AWS
 
 5. Create a frontend that takes user input and POSTs to your AWS endpoint ([lesson 22](https://github.com/eggheadio-projects/build-an-app-with-the-AWS-cloud-development-kit-notes/blob/master/22-connect-react-app-to-a-serverless-backend-deployed-with-cdk-and-fix-cors-issues.md))
 
-6. Deploy your front end to AWS ([lesson 24](https://github.com/eggheadio-projects/build-an-app-with-the-AWS-cloud-development-kit-notes/blob/master/24-deploy-a-static-website-to-s3-with-aws-cdk.md))
+6. Add CORS headers to createResponse method in lambda function ([lesson 22](https://github.com/eggheadio-projects/build-an-app-with-the-AWS-cloud-development-kit-notes/blob/master/22-connect-react-app-to-a-serverless-backend-deployed-with-cdk-and-fix-cors-issues.md))
+
+7. Deploy your front end to AWS ([lesson 24](https://github.com/eggheadio-projects/build-an-app-with-the-AWS-cloud-development-kit-notes/blob/master/24-deploy-a-static-website-to-s3-with-aws-cdk.md))
 
 ## Form Prototypes
 
