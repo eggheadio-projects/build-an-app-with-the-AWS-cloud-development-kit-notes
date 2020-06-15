@@ -22,17 +22,17 @@ Your project manager recommends you use the command `cdk init` to save time. AWS
 
 ## Project Steps
 
-Create helloworld lambda and test in AWS console ([lessons 05](../../05-create-and-deploy-a-lambda-function-with-aws-cdk.md))
+Create helloworld lambda and test in AWS console ([lessons 05](https://github.com/eggheadio-projects/build-an-app-with-the-AWS-cloud-development-kit-notes/blob/master/05-create-and-deploy-a-lambda-function-with-aws-cdk.md))
 
-Create an API gateway for your lambda function ([lesson 08](../../08-attach-an-api-gateway-to-a-lambda-function-deployed-with-aws-cdk.md))
+Create an API gateway for your lambda function ([lesson 08](https://github.com/eggheadio-projects/build-an-app-with-the-AWS-cloud-development-kit-notes/blob/master/08-attach-an-api-gateway-to-a-lambda-function-deployed-with-aws-cdk.md))
 
-Create a DynamoDB table inside your Backend Construct ([lesson 16](../../16-create-a-dynamo-db-table-with-aws-cdk.md))
+Create a DynamoDB table inside your Backend Construct ([lesson 16](https://github.com/eggheadio-projects/build-an-app-with-the-AWS-cloud-development-kit-notes/blob/master/16-create-a-dynamo-db-table-with-aws-cdk.md))
 
 Handle POST request inside of your lambda function that adds data to DynamoDB (lesson 17 - 21)
 
-Create a frontend that takes user input and POSTs to your AWS endpoint ([lesson 22](../../22-connect-react-app-to-a-serverless-backend-deployed-with-cdk-and-fix-cors-issues.md))
+Create a frontend that takes user input and POSTs to your AWS endpoint ([lesson 22](https://github.com/eggheadio-projects/build-an-app-with-the-AWS-cloud-development-kit-notes/blob/master/22-connect-react-app-to-a-serverless-backend-deployed-with-cdk-and-fix-cors-issues.md))
 
-Deploy your front end to AWS ([lesson 24](../../24-deploy-a-static-website-to-s3-with-aws-cdk.md))
+Deploy your front end to AWS ([lesson 24](https://github.com/eggheadio-projects/build-an-app-with-the-AWS-cloud-development-kit-notes/blob/master/24-deploy-a-static-website-to-s3-with-aws-cdk.md))
 
 ## Form Prototypes
 
