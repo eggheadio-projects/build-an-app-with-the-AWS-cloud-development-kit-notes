@@ -24,9 +24,11 @@ Your project manager recommends you use the command `cdk init` to save time. AWS
 
 1. Create a DynamoDB table inside your Backend Construct ([lesson 16](https://github.com/eggheadio-projects/build-an-app-with-the-AWS-cloud-development-kit-notes/blob/master/16-create-a-dynamo-db-table-with-aws-cdk.md))
 
-2. Handle POST request inside of your lambda function that adds data to DynamoDB (lesson 17 - 21)
+2. Write method for adding Emails to DynamoDB in Lambda function ([lesson 19](https://github.com/eggheadio-projects/build-an-app-with-the-AWS-cloud-development-kit-notes/blob/master/19-adding-data-to-a-dynamo-db-table-with-put-operation.md))
 
-3. Connect your lambda function to your backend
+3. In the lambda function, call your "add email" method and create a response whenever there is an HTTP POST request ([lesson 19](https://github.com/eggheadio-projects/build-an-app-with-the-AWS-cloud-development-kit-notes/blob/master/19-adding-data-to-a-dynamo-db-table-with-put-operation.md))
+
+3. Connect your lambda function to your backend ([lesson 17](https://github.com/eggheadio-projects/build-an-app-with-the-AWS-cloud-development-kit-notes/blob/master/17-get-all-items-from-a-dynamo-db-table-deployed-with-cdk-using-document-client-api.md))
 
 4. Create an API gateway for your lambda function ([lesson 08](https://github.com/eggheadio-projects/build-an-app-with-the-AWS-cloud-development-kit-notes/blob/master/08-attach-an-api-gateway-to-a-lambda-function-deployed-with-aws-cdk.md))
 
