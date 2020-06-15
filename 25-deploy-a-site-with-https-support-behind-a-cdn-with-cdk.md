@@ -17,8 +17,8 @@ To add it, run:
 
 🤔 [Cloudfront](https://aws.amazon.com/cloudfront/) is Amazon's CDN (Content Delivery Network).
 
-![CDN Illustration](https://res.cloudinary.com/dg3gyk0gu/image/upload/v1591637698/transcript-images/25-deploy-a-site-with-https-support-behind-a-cdn-with-cdk-cdn.png)
-
+![CDN Illustration](https://res.cloudinary.com/dg3gyk0gu/image/upload/v1592247660/transcript-images/25-deploy-a-site-with-https-support-behind-a-cdn-with-cdk-cdn.png)
+ 
 Import it to the stack file:
 
 * `import { SPADeploy } from "cdk-spa-deploy";`
