@@ -3,7 +3,7 @@
 <p align="center"><img src="https://d2eip9sf3oo6c2.cloudfront.net/series/square_covers/000/000/450/full/EGH_AWS-TS.png" width="340"></p>
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-8-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## About 🔍
@@ -102,6 +102,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="http://darkwark.com"><img src="https://avatars0.githubusercontent.com/u/1868217?v=4" width="100px;" alt=""/><br /><sub><b>Kamil Khadeyev</b></sub></a><br /><a href="#design-darkwark" title="Design">🎨</a></td>
     <td align="center"><a href="https://github.com/Creeland"><img src="https://avatars2.githubusercontent.com/u/518406?v=4" width="100px;" alt=""/><br /><sub><b>Creeland A. Provinsal </b></sub></a><br /><a href="#content-Creeland" title="Content">🖋</a></td>
     <td align="center"><a href="https://zacjones.io"><img src="https://avatars2.githubusercontent.com/u/6188161?v=4" width="100px;" alt=""/><br /><sub><b>Zac Jones</b></sub></a><br /><a href="#content-zacjones93" title="Content">🖋</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://williamjohnson.dev/"><img src="https://avatars2.githubusercontent.com/u/40403549?v=4" width="100px;" alt=""/><br /><sub><b>William Johnson</b></sub></a><br /><a href="https://github.com/eggheadio-projects/build-an-app-with-the-AWS-cloud-development-kit-notes/pulls?q=is%3Apr+reviewed-by%3Awjohnson85" title="Reviewed Pull Requests">👀</a></td>
   </tr>
 </table>
 
