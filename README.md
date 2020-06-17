@@ -22,7 +22,7 @@ You'll learn how to deploy a `cdk` template, write your first `lambda` function,
 
 By the end of the course you'll not only have a good understanding of (some of) `aws` features, you'll also have a working application deployed live on the internet.
 
-## AWS CDK Project
+## AWS CDK Project 🎓
 
 After completing the course and absorbing all of this knowledge, the best way to solidify it is by using it!
 
