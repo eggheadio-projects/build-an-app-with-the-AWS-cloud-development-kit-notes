@@ -32,26 +32,26 @@ There's an issue with the `APIendpoint` which we should be passing as an `env` v
 Now we will encounter a `CORS` issue. To fix it modify the `createReponse` function in your `lambda` file so that it includes the two `headers` properties and returns this:
 
 ```ts
-  return {
-      statusCode,
-      headers: {
-          // this API can be accessed from all origins
-          "Access-Control-Allow-Origin": "*",
-          // and will allow for all of these methods
-          // OPTIONS is a pre-flight method and is sent before the actual method `GET`, `POST`, `DELETE`
-          "Access-Control-Allow-Methods": "OPTIONS,GET,POST,DELETE"
-      },
-      body: JSON.stringify(body, null, 2)
-  };
+return {
+    statusCode,
+    headers: {
+      // this API can be accessed from all origins
+      "Access-Control-Allow-Origin": "*",
+      // and will allow for all of these methods
+      // OPTIONS is a pre-flight method and is sent before the actual method `GET`, `POST`, `DELETE`
+      "Access-Control-Allow-Methods": "OPTIONS,GET,POST,DELETE"
+    },
+    body: JSON.stringify(body, null, 2)
+};
 ```
 
 🤔 [More about the `OPTIONS` method](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/OPTIONS).
 
 Finally, add this to the handler (in the same file):
 ```ts
-  if (httpMethod === "OPTIONS") {
-      return createResponse("ok");
-  }
+if (httpMethod === "OPTIONS") {
+    return createResponse("ok");
+}
 ```
 
 👍 Deploy, and now your frontend app should be working.

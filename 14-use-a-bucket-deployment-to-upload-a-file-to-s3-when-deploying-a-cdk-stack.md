@@ -19,10 +19,10 @@ Import it to our todo app:
 Then add the deployment:
 ```ts
 new s3Deployment.BucketDeployment(this, "DeployLogo", {
-        destinationBucket: logoBucket,
-        // an array of sources
-        sources: [s3Deployment.Source.asset("./assets")]
-    });
+    destinationBucket: logoBucket,
+    // an array of sources
+    sources: [s3Deployment.Source.asset("./assets")]
+});
 ```
 
 Once we run `cdk deploy` our test file should be safe and sound in our todo `s3` bucket.

@@ -16,13 +16,13 @@ Import it to our stack file:
 and then:
 
 ```ts
-// attaching a notification to our logo bocket
+// attaching a notification to our logo bucket
 logoBucket.addEventNotification(
-      // everytime a new file is added to our bucket
-      s3.EventType.OBJECT_CREATED,
-      // execute our lambda function
-      new s3Notifications.LambdaDestination(helloLambda)
-  );
+    // every time a new file is added to our bucket
+    s3.EventType.OBJECT_CREATED,
+    // execute our lambda function
+    new s3Notifications.LambdaDestination(helloLambda)
+);
 ```
 
 👍 Tip: Make sure you have `npm run watch` running in another terminal tab - this will let you know if there are any `typescript` errors.

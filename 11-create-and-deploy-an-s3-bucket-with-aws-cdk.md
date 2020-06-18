@@ -20,8 +20,8 @@ Let's create a new bucket for storing a logo:
 
 ```ts
 const logoBucket = new s3.Bucket(this, "LogoBucket", {
-// we will fill this out later
-    });
+    // we will fill this out later
+});
 ```
 
 Run:

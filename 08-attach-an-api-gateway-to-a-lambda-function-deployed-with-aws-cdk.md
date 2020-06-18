@@ -16,12 +16,12 @@ Then import it to the stack file:
 
 Now we will use `apiGateway` to create a REST API for our application.
 
-Add the following:
+Add the following before the closing of the `TodoAppStack` constructor:
 
 ```ts
 new apiGateway.LambdaRestApi(this, "Endpoint", {
-        handler: helloLambda
-    });
+    handler: helloLambda
+});
 ```
 
 Let's also update the `body` of our handler inside our `lambda` function to:

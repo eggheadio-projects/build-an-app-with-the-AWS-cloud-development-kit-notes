@@ -2,7 +2,7 @@
 
 **[📹 Video](https://egghead.io/lessons/aws-destroy-an-aws-cdk-stack)**
 
-If at some point you want to delete the your app (along with all of its resources), you just need to run:
+If at some point you want to delete your app (along with all of its resources), you just need to run:
 
 * `cdk destroy`.
 

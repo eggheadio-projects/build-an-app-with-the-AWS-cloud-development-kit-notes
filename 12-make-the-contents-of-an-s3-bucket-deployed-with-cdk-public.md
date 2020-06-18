@@ -8,8 +8,8 @@ By default, an `s3` bucket is secure and publicly inaccessible. To fix that, we'
 
 ```ts
 const logoBucket = new s3.Bucket(this, "LogoBucket", {
-      publicReadAccess: true
-  });
+    publicReadAccess: true
+});
 ```
 
 Once deployed, our `s3` links will be available to everyone.

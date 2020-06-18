@@ -8,10 +8,10 @@ Instead of manually searching for the logo url in our `aws` console (not a true 
 
 To do that, let's modify the `output` in our stack file by adding this:
 ```ts
-  new cdk.CfnOutput(this, "LogoPath", {
+new cdk.CfnOutput(this, "LogoPath", {
     // add the name of your bucket and your file (in the assets folder)
-      value: `https://${logoBucket.bucketDomainName}/testFile.png`
-  });
+    value: `https://${logoBucket.bucketDomainName}/testFile.png`
+});
 ```
 
 👍 Once you deploy, you should see the logo path in the output section.
