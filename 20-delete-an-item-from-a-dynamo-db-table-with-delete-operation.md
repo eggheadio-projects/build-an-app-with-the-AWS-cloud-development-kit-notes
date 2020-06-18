@@ -13,7 +13,7 @@ const deleteTodoItem = async (data: { id: string }) => {
             .delete({
                 TableName: tableName,
                 Key: {
-                  // each todo needs a unique id
+                    // each todo needs a unique id
                     id
                 }
             })
@@ -27,7 +27,7 @@ const deleteTodoItem = async (data: { id: string }) => {
 Let's test this by sending a `DELETE` request:
 ```JSON
 {
-"id": "this_is_a_new_id"
+    "id": "this_is_a_new_id"
 }
 ```
 

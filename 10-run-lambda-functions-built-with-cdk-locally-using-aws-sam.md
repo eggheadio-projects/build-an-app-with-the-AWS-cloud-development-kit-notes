@@ -46,11 +46,10 @@ Then run:
 
 You should get the following output:
 
-```ts
-
+```json
 {
-"statusCode": 200,
-"headers": {"Content-Type":"text/plain"},
-"body":"Hello, egghead friends! You've hit /hello/egghead\n"
+    "statusCode": 200,
+    "headers": {"Content-Type":"text/plain"},
+    "body":"Hello, egghead friends! You've hit /hello/egghead\n"
 }
 ```

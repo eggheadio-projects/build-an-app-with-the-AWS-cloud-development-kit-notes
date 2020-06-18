@@ -14,7 +14,7 @@ Import `aws-cdk/core` then, let's type our custom construct (which is going to l
 
 ```ts
 export class TodoBackend extends cdk.Construct {
-  // so we can export it later
+    // so we can export it later
     public readonly handler: lambda.Function;
 
     constructor(scope: cdk.Construct, id: string, props?: cdk.StackProps) {

@@ -19,10 +19,10 @@ Inside our `todo-app` will create a new directory called `lambda` and inside of 
 ```ts
 // we are going to call this function via APIGatewayEvent which is used for http requests
 exports.handler = async function(event: AWSLambda.APIGatewayEvent) {
-  //  this is a neat trick to prettify the console log
+    // this is a neat trick to prettify the console log
     console.log("request:", JSON.stringify(event, null, 2));
 
-// this is what calling this lambda function will return
+    // this is what calling this lambda function will return
     return {
         statusCode: 200,
         headers: { "Content-Type": "text/plain" },

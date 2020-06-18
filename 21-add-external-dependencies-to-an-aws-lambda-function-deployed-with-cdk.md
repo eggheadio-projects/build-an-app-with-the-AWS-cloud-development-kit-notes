@@ -23,11 +23,11 @@ Then in our `lambda` function, import `uuid`:
 
 Now change the `addTodoItem`:
 ```ts
-  Item: {
+Item: {
     // use either an id provided through the UI, or get a randomly generated id with uuid
-      id: id || uuid(),
-      todo
-  }
+    id: id || uuid(),
+    todo
+}
 ```
 
 👍 Test that `uuid` is working by adding a new todo via a REST client.

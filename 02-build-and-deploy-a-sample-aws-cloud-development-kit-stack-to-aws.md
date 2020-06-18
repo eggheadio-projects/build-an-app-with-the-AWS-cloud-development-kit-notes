@@ -2,7 +2,7 @@
 
 **[📹 Video](https://egghead.io/lessons/aws-build-and-deploy-a-sample-aws-cloud-development-kit-stack-to-aws)**
 
-Although many files have been installed when we initialized a new `cdk` project, we'll only touch two of those files (and we'll create some news files too):
+Although many files have been installed when we initialized a new `cdk` project, we'll only touch two of those files (and we'll create some new files too):
 
 1. the `.ts` file found in the `bin` directory (`todo-app.ts` for Tomasz). This is the app's entry point (kind of like `index.js` in your standard `reactJS` application)
 
@@ -32,7 +32,7 @@ We'll use `typescript`, so let's start the `typescript` compiler to watch for an
 
 👍 Similar to `git diff`, this will give you a preview of you what you'll be deploying.
 
-👍 Sidenote: if you haven't used `aws` before (like me!), you will get this error message: `Unable to resolve AWS account to use. It must be either configured when you define your CDK or through the environment`.
+👍 Side note: if you haven't used `aws` before (like me!), you will get this error message: `Unable to resolve AWS account to use. It must be either configured when you define your CDK or through the environment`.
 
 Don't panic, Tomasz created a video to help you set up, and I've added notes on that in the [00-Intro and Welcome](00-intro-and-welcome.md) section of the notes.
 
@@ -50,4 +50,4 @@ To deploy run:
 
 * `cdk deploy`
 
-👍 Every time we're making **potentially sensitive changes**, we'll be asked to confirm that we we are ready to deploy. Hit `y` to agree.
+👍 Every time we're making **potentially sensitive changes**, we'll be asked to confirm that we are ready to deploy. Hit `y` to agree.
