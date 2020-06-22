@@ -6,6 +6,19 @@
 
 Hi and welcome! This document contains some of the things that I had to lookup while I was going through this course. I hope you find them useful too!
 
+## Install Libraries
+
+You need to ensure that all CDK packages (core, s3, etc.) have the same version. The recommended version for all CDK packages is `1.31.0`.
+
+You can install an old version of an npm package using the `@` syntax:
+
+```
+npm install <package>@<version>
+```
+```
+npm i @aws-cdk/aws-s3@1.31.0
+```
+
 ## What is a lambda function?
 
 * `lambda` means function as a service, where you, the developer, don't have to worry about managing servers, just the functions that need to be executed.
