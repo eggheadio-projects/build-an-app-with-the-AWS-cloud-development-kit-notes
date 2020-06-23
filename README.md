@@ -3,7 +3,7 @@
 <p align="center"><img src="https://d2eip9sf3oo6c2.cloudfront.net/series/square_covers/000/000/450/full/EGH_AWS-TS.png" width="340"></p>
 
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-11-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-12-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ## About 🔍
@@ -108,6 +108,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://ianjones.us/"><img src="https://avatars2.githubusercontent.com/u/4407263?v=4" width="100px;" alt=""/><br /><sub><b>Ian Jones</b></sub></a><br /><a href="#userTesting-theianjones" title="User Testing">📓</a></td>
     <td align="center"><a href="https://github.com/pixelsortr"><img src="https://avatars0.githubusercontent.com/u/54180211?v=4" width="100px;" alt=""/><br /><sub><b>Pixel</b></sub></a><br /><a href="#content-pixelsortr" title="Content">🖋</a></td>
     <td align="center"><a href="https://github.com/MrZakos"><img src="https://avatars2.githubusercontent.com/u/999613?v=4" width="100px;" alt=""/><br /><sub><b>Zakos</b></sub></a><br /><a href="https://github.com/eggheadio-projects/build-an-app-with-the-AWS-cloud-development-kit-notes/issues?q=author%3AMrZakos" title="Bug reports">🐛</a></td>
+    <td align="center"><a href="http://bendaniel.io"><img src="https://avatars0.githubusercontent.com/u/6035934?v=4" width="100px;" alt=""/><br /><sub><b>Ben</b></sub></a><br /><a href="#content-codeandcats" title="Content">🖋</a></td>
   </tr>
 </table>
 
