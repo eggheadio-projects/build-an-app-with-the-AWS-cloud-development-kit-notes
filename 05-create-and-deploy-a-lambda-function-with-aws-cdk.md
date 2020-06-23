@@ -43,7 +43,7 @@ Then we'll create an instance of our lambda construct, with three arguments:
 ```ts
 const helloLambda = new lambda.Function(this, "HelloLambda", {
   // where our code is located (inside the lambda directory)
-    code: lambda.Code.asset("lambda"),
+    code: lambda.Code.fromAsset("lambda"),
     // the function executed whenever this lambda function is triggered (the handler function inside hello.ts file)
     handler: "hello.handler",
     // most recent node
