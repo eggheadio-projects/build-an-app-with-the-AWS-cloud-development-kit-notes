@@ -31,7 +31,7 @@ You can find a challenge written up for you to test your new AWS knowledge in th
 You'll notice that there is a [community solutions](./course-project/community-solutions.md) folder within the Course Project section. We encourage you to submit a PR and add your solution!
 
 ## Prerequisites ✅
-During this course we're going to talk quite a bit about AWS Lambda, DynamoDB and we're going to play with AWS SAM a bit. This is not required but I think you will get more out of the course if you take a look at those resources first (don't worry - I will be explaning those concepts during the course as well):
+During this course we're going to talk quite a bit about AWS Lambda, DynamoDB and we're going to play with AWS SAM a bit. This is not required but I think you will get more out of the course if you take a look at those resources first (don't worry - I will be explaining those concepts during the course as well):
 
 [🤔 Tomasz's notes](https://gist.github.com/tlakomy/f1312ec1fd092ece75a0f72403235fc8) and [workshop docs](https://github.com/tlakomy/egghead-aws-cdk-workshop/tree/master/docs)
 
