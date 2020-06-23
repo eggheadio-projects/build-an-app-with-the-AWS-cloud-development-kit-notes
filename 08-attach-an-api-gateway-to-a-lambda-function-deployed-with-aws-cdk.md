@@ -30,6 +30,6 @@ Let's also update the `body` of our handler inside our `lambda` function to:
 
 Run `cdk diff` (a lot of changes will be displayed - this will be the code added by `cdk` due to adding `apiGateway`), then `cdk deploy`.
 
-Once you've deployed succesfully, the terminal will output a URL. Click on it to see your `lambda` function live on the internet.
+Once you've deployed successfully, the terminal will output a URL. Click on it to see your `lambda` function live on the internet.
 
 You can also check your newly created resources in the `aws` console. If you click on your `lambda` function you'll also see that this function now has a trigger (API Gateway) associated with it.
